@@ -1,0 +1,22 @@
+{
+  "LauncherVersion": "0.0.1",
+  "LauncherZipUrl": "https://example.com/launcher.zip",
+  "Games": [
+    {
+      "Id": "game1",
+      "Name": "Super Adventure",
+      "Description": "Эпическая приключенческая игра с невероятными пейзажами и боями.",
+      "IconUrl": "https://example.com/icons/game1.png",
+      "Image": "https://example.com/banners/game1.png",
+      "GameZipUrl": "https://example.com/games/game1.zip"
+    },
+    {
+      "Id": "game2",
+      "Name": "Racing Mania",
+      "Description": "Скоростные гонки с реалистичной физикой и множеством трасс.",
+      "IconUrl": "https://example.com/icons/game2.png",
+      "Image": "https://example.com/banners/game2.png",
+      "GameZipUrl": "https://example.com/games/game2.zip"
+    }
+  ]
+}
