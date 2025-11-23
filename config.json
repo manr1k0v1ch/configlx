@@ -8,7 +8,7 @@
       "Description": "Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 ",
       "IconUrl": "https://example.com/icons/game1.png",
       "Image": "https://example.com/banners/game1.png",
-      "GameZipUrl": "https://example.com/games/game1.zip"
+      "GameZipUrl": "https://github.com/manr1k0v1ch/Games/raw/refs/heads/main/game1.zip"
     },
     {
       "Id": "game2",
@@ -16,7 +16,7 @@
       "Description": "Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 Тест игра 1 ",
       "IconUrl": "https://example.com/icons/game2.png",
       "Image": "https://example.com/banners/game2.png",
-      "GameZipUrl": "https://example.com/games/game2.zip"
+      "GameZipUrl": "https://github.com/manr1k0v1ch/Games/raw/refs/heads/main/game2.zip"
     }
   ]
 }
